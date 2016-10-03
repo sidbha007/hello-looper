@@ -1,0 +1,3 @@
+flows:
+  master:
+    - (on master, name echo hello looper) echo "hello looper!"
